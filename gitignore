@@ -1,0 +1,15 @@
+# Ignorar arquivos de compilação e saída
+target/
+
+
+# Ignorar arquivos de log
+log/
+
+
+# Ignorar arquivos temporários e caches
+*.log
+*.swp
+
+# Arquivos de dependências baixadas pelo Maven 
+/ .m2/
+
